@@ -202,10 +202,6 @@ margin-top: 2em;
 margin-bottom: 2em;
 }
 
-#contact{
-
-}
-
 
 footer{
 
@@ -235,7 +231,17 @@ footer p{
 }
 
   /* Style all font awesome icons */
-  footer .fab {
+  footer  .fab{
+      margin: 0.2em;
+      padding: 0.2em;
+      font-size: 100%;
+      width: 3%;
+      text-align: center;
+      text-decoration: none;
+      color: black;
+  }
+
+   footer  .fas{
       margin: 0.2em;
       padding: 0.2em;
       font-size: 100%;
@@ -260,6 +266,18 @@ footer p{
       color: black;
       opacity: 0.5;
   }
+
+   footer .fas:hover {
+      margin: 0.2em;
+      padding: 0.2em;
+      font-size: 100%;
+      width: 3%;
+      text-align: center;
+      text-decoration: none;
+      color: black;
+      opacity: 0.5;
+  }
+
 
   /*google play settings*/
   .gp {
@@ -336,6 +354,11 @@ footer p{
     .nav ul{
       padding: 0;
     }
+
+    .intro{
+      width: 75%;
+    }
+
 
   }
 }
