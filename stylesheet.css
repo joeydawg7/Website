@@ -311,5 +311,22 @@ footer p{
     .game img{
     width: 50%;
     }
+
+  .nav li {
+      display:  block;
+      margin: 0.8em;
+      padding:  0.8em;
+      padding-right: 1em;
+      padding-top: 0.25em;
+      padding-bottom: 0.25em;
+
+      border-top: 2px solid black;
+    border-bottom: 2px solid black;
+
+    font-style: italic;
+    font-family: 'Rubik', sans-serif;
+
+    }
+    
   }
 }
