@@ -59,8 +59,8 @@
 
   .nav li {
   	display:  inline-block;
-  	margin: 1em;
-  	padding:  1em;
+  	margin: 0.8em;
+  	padding:  0.8em;
   	padding-right: 1em;
   	padding-top: 0.25em;
   	padding-bottom: 0.25em;
